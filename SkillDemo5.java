@@ -1,4 +1,6 @@
 public class SkillDemo5 {
-// Hello
+    public static int add(int n, int m) {
+        return n+m;
+    }
 
 }
